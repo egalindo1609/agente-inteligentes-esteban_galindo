@@ -41,6 +41,6 @@ class AgenteExplorador:
             time.sleep(0.5)
 
 # Ejecutar exploración
-mapa = Mapa()
+mapa = Mapa()    
 agente = AgenteExplorador(mapa)
 agente.explorar()
