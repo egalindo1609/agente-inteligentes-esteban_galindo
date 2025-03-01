@@ -45,4 +45,4 @@ class AgentePatrulla:
 # Ejecutar simulación
 entorno = Entorno()
 agente = AgentePatrulla(entorno)
-agente.patrullar()
+agente.patrullar()    
